@@ -1,0 +1,1 @@
+DriverInstallerConsole.exe "C:\Drivers\MyDriver\mydriver.inf"
